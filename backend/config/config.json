@@ -1,0 +1,12 @@
+{
+    "development": {
+      "username": "ilzako",
+      "password": "t231818",
+      "database": "DB_Zakovits",
+      "host": "dev.vk.edu.ee",
+      "port": 5432,
+      "dialect": "postgres",
+      "schema": "windows_sale"
+    }
+  }
+  
